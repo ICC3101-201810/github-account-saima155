@@ -6,7 +6,15 @@ using System.Threading.Tasks;
 
 namespace lab_03
 {
-    class accesorio
+    public class accesorio
     {
+        string tipo;
+        int precio;
+        public accesorio(string mitipo, int miprecio)
+        {
+            tipo = mitipo;
+            precio = miprecio;
+
+        }
     }
 }

@@ -6,10 +6,19 @@ using System.Threading.Tasks;
 
 namespace lab_03
 {
-    class Program
+    public class sucursal
     {
-        static void Main(string[] args)
+        string nombre;
+        string direccion;
+        public sucursal(string minombre, string midireccion)
         {
+            nombre = minombre;
+            direccion = midireccion;
         }
+                
+                
+
     }
+    
+    
 }

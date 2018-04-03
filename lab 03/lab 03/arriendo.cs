@@ -3,10 +3,20 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Globalization;
 
 namespace lab_03
 {
-    class arriendo
+    public class arriendo
     {
+        DateTime fechaInicial;
+        DateTime fechaFinal;
+        int montototal;
+        public arriendo(cliente c, veiculos v, sucursal s,accesorio a, DateTime mifechaInicial, DateTime mifechaFinal)
+        {
+            fechaFinal = mifechaFinal;
+            fechaInicial = mifechaInicial;
+        }
     }
+
 }
