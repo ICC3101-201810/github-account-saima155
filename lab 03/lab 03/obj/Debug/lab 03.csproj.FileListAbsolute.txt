@@ -1,0 +1,7 @@
+C:\Users\ING\Desktop\github-account-saima155-master\github-account-saima155-master\lab 03\lab 03\obj\Debug\lab 03.csprojResolveAssemblyReference.cache
+C:\Users\ING\Desktop\github-account-saima155-master\github-account-saima155-master\lab 03\lab 03\obj\Debug\lab 03.csproj.CoreCompileInputs.cache
+C:\Users\ING\Desktop\github-account-saima155-master\github-account-saima155-master\lab 03\lab 03\bin\Debug\lab 03.exe.config
+C:\Users\ING\Desktop\github-account-saima155-master\github-account-saima155-master\lab 03\lab 03\bin\Debug\lab 03.exe
+C:\Users\ING\Desktop\github-account-saima155-master\github-account-saima155-master\lab 03\lab 03\bin\Debug\lab 03.pdb
+C:\Users\ING\Desktop\github-account-saima155-master\github-account-saima155-master\lab 03\lab 03\obj\Debug\lab 03.exe
+C:\Users\ING\Desktop\github-account-saima155-master\github-account-saima155-master\lab 03\lab 03\obj\Debug\lab 03.pdb

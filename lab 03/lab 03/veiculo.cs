@@ -6,54 +6,56 @@ using System.Threading.Tasks;
 
 namespace lab_03
 {
-    public class veiculos
+    public class Veiculos
     {
         string patente;
-        public veiculos(string numpatente)
+        public Veiculos(string numpatente)
         {
             patente = numpatente;
         }
 
     }
-    public class auto : veiculos
+    public class auto : Veiculos
     {
         public auto(string numpatente) : base(numpatente)
         {
 
         }
     }
-    public class acuatico : veiculos
+    public class acuatico : Veiculos
     {
         public acuatico(string numpatente) : base(numpatente)
         {
 
         }
-        public class moto : veiculos
+    }
+    public class moto : Veiculos
+    {
+        public moto(string numpatente) : base(numpatente)
         {
-            public moto(string numpatente) : base(numpatente)
-            {
 
-            }
         }
-        public class camion : veiculos
+    }
+    public class camion : Veiculos
+    {
+        public camion(string numpatente) : base(numpatente)
         {
-            public camion(string numpatente) : base(numpatente)
-            {
 
-            }
         }
-        public class bus : veiculos
+    }
+    public class bus : Veiculos
+    {
+        public bus(string numpatente) : base(numpatente)
         {
-            public bus(string numpatente) : base(numpatente)
-            {
 
-            }
         }
-        public class maquinariap : veiculos
+    }
+    public class maquinariap : Veiculos
+    {
+        public maquinariap(string numpatente) : base(numpatente)
         {
-            public maquinariap(string numpatente) : base(numpatente)
-            {
 
-            }
         }
+    }
+
 }

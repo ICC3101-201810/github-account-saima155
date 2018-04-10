@@ -12,7 +12,7 @@ namespace lab_03
         DateTime fechaInicial;
         DateTime fechaFinal;
         int montototal;
-        public arriendo(cliente c, veiculos v, sucursal s,accesorio a, DateTime mifechaInicial, DateTime mifechaFinal)
+        public arriendo(cliente c, Veiculos v, Sucursal s,Accesorio a, DateTime mifechaInicial, DateTime mifechaFinal)
         {
             fechaFinal = mifechaFinal;
             fechaInicial = mifechaInicial;
